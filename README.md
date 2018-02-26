@@ -7,3 +7,5 @@ Git Pitch Kitchen Sink
 # Slide Markdown
 * https://github.com/gitpitch/gitpitch/wiki/Slide-Markdown
 
+# GITPITCH Link
+* https://gitpitch.com/scotthong/kitchen-sink/master
